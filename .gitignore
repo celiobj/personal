@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# Build and Release Folders
+UltraControle/lib
+
 # BlueJ files
 *.ctxt
 
